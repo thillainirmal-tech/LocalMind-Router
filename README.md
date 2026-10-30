@@ -13,6 +13,8 @@ Privacy-first Java routing for Ollama, safe deterministic tools and approved clo
 
 [Open the full-resolution screenshot](docs/media/product-console.jpg) · **Recruiter demo:** classify a sensitive workload, inspect the routing trace, then execute it against the local Ollama boundary with cloud fallback disabled.
 
+[▶ Watch the recorded routing demo (5 seconds)](docs/media/runtime-demo.mp4)
+
 > **Deployment status:** tested, containerized and deployable to a controlled AWS environment; no public production endpoint is claimed yet.
 
 ## Capabilities
