@@ -7,7 +7,7 @@ Privacy-first Java routing for Ollama, safe deterministic tools and approved clo
 [![CI](https://github.com/thillainirmal-tech/LocalMind-Router/actions/workflows/ci.yml/badge.svg)](https://github.com/thillainirmal-tech/LocalMind-Router/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
 
-## What it demonstrates
+## Capabilities
 
 - data classification before model selection
 - mandatory local execution for sensitive and secret prompts
