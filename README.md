@@ -7,6 +7,14 @@ Privacy-first Java routing for Ollama, safe deterministic tools and approved clo
 [![CI](https://github.com/thillainirmal-tech/LocalMind-Router/actions/workflows/ci.yml/badge.svg)](https://github.com/thillainirmal-tech/LocalMind-Router/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
 
+## Product tour
+
+![LocalMind Router privacy routing console](docs/media/product-tour.gif)
+
+[Open the full-resolution screenshot](docs/media/product-console.jpg) · **Recruiter demo:** classify a sensitive workload, inspect the routing trace, then execute it against the local Ollama boundary with cloud fallback disabled.
+
+> **Deployment status:** tested, containerized and deployable to a controlled AWS environment; no public production endpoint is claimed yet.
+
 ## Capabilities
 
 - data classification before model selection
